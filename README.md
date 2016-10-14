@@ -1,2 +1,2 @@
 # HTML-Bootstrap-boilerplate
-Setup for bootstrap within html
+Download de zip rechts bovenin (clone or download).
